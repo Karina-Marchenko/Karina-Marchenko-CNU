@@ -1,13 +1,13 @@
 # Mapping The Gay Guides
 
 **Project:**
-Mapping the Gay Guides
+Mapping the Gay Guides <br />
 **Project Director(s):**
-Dr. Amanda Regan & Dr. Eric Gonzaba
+Dr. Amanda Regan & Dr. Eric Gonzaba <br />
 **Project URL:** 
-[http://www.mappingthegayguides.org.](https://www.mappingthegayguides.org/)
+[http://www.mappingthegayguides.org.](https://www.mappingthegayguides.org/) <br />
 **Reviewer:** 
-Karina Marchenko 
+Karina Marchenko <br />
 ![Bob Damron Address Books](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/gayguides.jpg) 
 Summary:
 
