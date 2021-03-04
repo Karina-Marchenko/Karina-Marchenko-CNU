@@ -9,13 +9,13 @@ https://blackbroadwayonu.com/ <br />
 **Project Reviewer:**
 Karina Marchenko <br />
 
-![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/site.jpg) 
+![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/site.jng) 
 
 Summary:<br />
 
 Design:<br />
 
-![Interactive videos](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/video.jpg) 
+![Interactive videos](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/video.jng) 
 
 Relevance: <br />
 The Black Broadway On U project does a great job of infiltrating their website with prominent songs and landmarks that held significance to the black community. 
