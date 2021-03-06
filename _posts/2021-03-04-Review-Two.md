@@ -9,7 +9,7 @@ https://blackbroadwayonu.com/ <br />
 **Project Reviewer:**
 Karina Marchenko <br />
 
-![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/site.png)  
+![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/website.png)  
 
 Summary:<br />
 
