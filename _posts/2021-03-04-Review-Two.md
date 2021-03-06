@@ -12,6 +12,16 @@ Karina Marchenko <br />
 ![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/website.png)  
 
 Summary:<br />
+Black Broadway on U originated in February 2014, Washington DC. This project casts light on the history that lies beneath the surface through the lens and voices of local Washingtonians who remember it best. 
+Black Broadway On U is a groundbreaking project that shows the public the story that had never been known as significant. 
+This project represents the Black community in Washington, DC, and the important community, known as Black Broadway, a city within a city. 
+The Black greater U Street community was developed in the 19th century through the first half of the 20th century. 
+From the Black greater U street community came out of Black Broadway. 
+Despite all the discriminatory actions, the Black community persevered.  
+During the Jim Crow era, Black Broadway created Washington DC’s Black Renaissance. 
+Black Broadway worked as a prominent symbol of black culture and refinement among the racial and political tension in America. 
+This project’s website uses interactive tools and social media to create an experience of all sorts of topics. 
+Black Broadway On U seeks to show its audience how similar the past, present, and future are. 
 
 Design:<br />
 
