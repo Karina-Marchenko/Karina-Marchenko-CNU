@@ -23,6 +23,16 @@ This project’s website uses interactive tools and social media to create an ex
 Black Broadway On U seeks to show its audience how similar the past, present, and future are. 
 
 Design:<br />
+Black Broadway On U was created with the intention for their audience to have a look back in time. 
+Their website is designed with interactive and easily maneuverable tabs to engage the reader quickly upon entering the site. 
+The website’s design is beautiful with its striking images and playful tunes that begin the experience of browsing the entire site. 
+The added music under the “Home” tab towards the bottom of the screen in the activate map button starts to play soft jazz music, which adds to the website’s experience. 
+It creates an atmosphere of calmness and serenity for the audience. 
+Having the project’s site contain an interactive map where the audience can scan through all these significant landmarks in DC allows the viewer’s interest to be peeked in considering finding these places in DC. 
+The website was comfortable navigating a laptop or a desktop computer, but it is also easy to experience on a cell phone. 
+To understand the full experience, I recommend browsing on a laptop/desktop. 
+The site also had made videos of artists from the black community in Washington DC. 
+The audience can view what it was like for the black community in the 19th century at the height of segregation. 
 
 ![Interactive videos](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/video.png) 
 
