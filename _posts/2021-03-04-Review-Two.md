@@ -12,13 +12,13 @@ Karina Marchenko <br />
 ![Opening Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/website.png)  
 
 Summary:<br />
-Black Broadway on U originated in February 2014, Washington DC. This project casts light on the history that lies beneath the surface through the lens and voices of local Washingtonians who remember it best. 
+Black Broadway on U originated in February 2014, Washington DC. 
+This project casts light on the history that lies beneath the surface through the lens and voices of local Washingtonians who remember it best. 
 Black Broadway On U is a groundbreaking project that shows the public the story that had never been known as significant. 
-This project represents the Black community in Washington, DC, and the important community, known as Black Broadway, a city within a city. 
-The Black greater U Street community was developed in the 19th century through the first half of the 20th century. 
-From the Black greater U street community came out of Black Broadway. 
-Despite all the discriminatory actions, the Black community persevered. During the Jim Crow era, Black Broadway created Washington DC’s Black Renaissance. 
-Black Broadway worked as a prominent symbol of black culture and refinement among the racial and political tension in America. 
+This project represents the Black community in Washington, DC, and the critical community, known as Black Broadway, a city within a city. 
+The Black greater U Street community was developed in the 19th century through the first half of the 20th century, coming out of Black Broadway. 
+Despite all the discriminatory actions, the Black community persevered. 
+During the Jim Crow era, Black Broadway created Washington DC’s Black Renaissance. 
 This project’s website uses interactive tools and social media to create an experience of all sorts of topics. 
 Black Broadway On U seeks to show its audience how similar the past, present, and future are. 
 
@@ -37,7 +37,7 @@ The audience can view what it was like for the black community in the 19th centu
 ![Interactive videos](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/video.png) 
 
 Relevance: <br />
-The Black Broadway On U project does a great job of infiltrating their website with prominent songs and landmarks that held significance to the black community. 
+The Black Broadway On U project does a great job of infiltrating their website with prominent songs and landmarks that held significance to the black community.
 The project site’s directors are Shellée M. Haynesworth, Karen Parker, and Michelle Delino. 
 Shellée M. Haynesworth is an award-winning multimedia maker, storyteller, and culture keeper. 
 Karen Parker brings 14 years of expertise in special events planning, project management, writing, and research to the Black Broadway on U team. 
@@ -53,5 +53,8 @@ The project site’s tabs were well informed and easy to navigate (Home, About, 
 The website could benefit from explaining what is under each tab and give more direction. 
 In the “Location Index,” there are filtered songs for the reader to enjoy as they look through the important locations. 
 Overall, the project’s site is easy to browse with entertaining interactive elements. 
+The website would benefit from a beginner’s tutorial on what the website is about and what the viewer can find under each tab. 
 I have learned a lot throughout critiquing this site. 
-I feel more informed about the history of Washington DC a little more.  
+I feel more informed about the history of Washington DC a little more.   
+ 
+
