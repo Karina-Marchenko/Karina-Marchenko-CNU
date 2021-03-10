@@ -5,7 +5,7 @@ Black Broadway On U <br />
 **Project Director(s):**
 Shellée M. Haynesworth, Karen Parker, & Michelle Delino <br />
 **Project URL:** 
-https://blackbroadwayonu.com/ <br />
+[https://blackbroadwayonu.com/](https://blackbroadwayonu.com/) <br />
 **Project Reviewer:**
 Karina Marchenko <br />
 
