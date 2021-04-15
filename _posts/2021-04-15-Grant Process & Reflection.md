@@ -1,4 +1,4 @@
-# Grant Reflection 
+# Grant Process & Reflection 
 
 My project is all about Music technology in the Digital humanities space. 
 Music technology has many aspects, but what I will be focusing on in my project is coding and the history of music technology. 
@@ -6,7 +6,7 @@ This project interests me because I have spent my whole college career studying 
 Music is a vast subject with many sub-subjects to be learned. 
 The best part about the music world is that many don’t know that music technology plays a significant role in what comes next in technology.  
 
-![Inspiration Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/inspo2.png)
+![Inspiration Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/inspiration.png)
 
 Yes, my project is still relatively the same as my abstract as to when I first started brainstorming and planning it. 
 I would say now that it is more fleshed out and has a specific goal in mind. 
@@ -37,12 +37,16 @@ It made the readings not feel so intimidating by breaking them down and having t
 The specific readings that had diagrams and broke down helpful tips were the most beneficial when tied within the projects we were completing. 
 Reading articles related to the projects helped show what you needed to work on to elevate it.    
 
+![TEI Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/TEI.png) 
+
 The assignments we have completed this semester are some of the most abstract projects I have done within my college experience. 
 I enjoyed it when we reviewed digital humanities projects’ and created reviews on them by thoroughly going through each website section. 
 My least favorite assignment was when we coded TEI and created a blog post to coincide with the code. 
 Not that the project was too challenging, but coding can be very selective when inserted incorrectly. 
 Completing the TEI coding project gave a better understanding of how broad digital humanities can become. 
 Since these assignments were different from what I had typically done in the past, I have since then had an encompassing understanding of the digital humanities. 
+
+![TEI Code Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/TEIcode.png) 
 
 In my opinion, I have grown tremendously throughout this course. 
 I have learned how to write outside of my comfort zone by being able to code. I have done many assignments in this course that I have never done before. 
