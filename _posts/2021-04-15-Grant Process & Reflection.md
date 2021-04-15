@@ -4,7 +4,9 @@ My project is all about Music technology in the Digital humanities space.
 Music technology has many aspects, but what I will be focusing on in my project is coding and the history of music technology. 
 This project interests me because I have spent my whole college career studying music and, more specifically, focusing on music technology in my last two years. 
 Music is a vast subject with many sub-subjects to be learned. 
-The best part about the music world is that many don’t know that music technology plays a significant role in what comes next in technology. 
+The best part about the music world is that many don’t know that music technology plays a significant role in what comes next in technology.  
+
+![Inspiration Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/inspo2.png)
 
 Yes, my project is still relatively the same as my abstract as to when I first started brainstorming and planning it. 
 I would say now that it is more fleshed out and has a specific goal in mind. 
@@ -14,6 +16,8 @@ That said, I haven’t found any that are almost identical to my project.
 My project is more based on the music technology world and how coding is at its heart. 
 To differentiate my project from the others out there on the internet.
 
+![Inspiration Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/inspo.png)
+
 I have decided to go with the coding music route. 
 Coding is used worldwide by many people, and why not include the ins and outs of coding music on my project’s website. 
 I would have cheat sheets underneath the coding declaring what they do in the code to produce sound. 
@@ -22,10 +26,11 @@ My views changed on how to write a grant tremendously by giving me as the viewer
 Grants can also come in many shapes and sizes. 
 I went into this final project not understanding what a grant project would even entail but now nearing the end of the semester, and I feel confident to write one again.  
 
+![Tweet Picture](https://Karina-Marchenko.github.io/Karina-Marchenko-CNU/images/tweet.png) 
+
 Digital Humanities has shown me how in-depth it is and how essential it is to technology today. 
 I would have never known that music technology and digital humanities tie within each other if it wasn’t for taking this class. 
-At the beginning of this semester, I would have defined digital humanities as a field of study involved with the crossing of computing and the humanities disciplines. 
-At the end of this semester, I have grown to learn accurately what the digital humanities is and thoroughly done my research within it over time. 
+At the beginning of this semester, I would have defined digital humanities as a field of study involved with the crossing of computing and the humanities disciplines. At the end of this semester, I have grown to learn accurately what the digital humanities is and thoroughly done my research within it over time. 
 
 The readings helped a significant amount when we had to go on to Twitter and tweet about our thoughts. 
 It made the readings not feel so intimidating by breaking them down and having the option to discuss them with our classmates. 
