@@ -1,7 +1,7 @@
 # Grant Process & Reflection 
 
-My project is all about Music technology in the Digital humanities space. 
-Music technology has many aspects, but what I will be focusing on in my project is coding and the history of music technology. 
+My project is all about **Music Technology** in the Digital humanities space. 
+Music technology has many aspects, but what I will be focusing on in my project is **coding and the history of music technology.** 
 This project interests me because I have spent my whole college career studying music and, more specifically, focusing on music technology in my last two years. 
 Music is a vast subject with many sub-subjects to be learned. 
 The best part about the music world is that many don’t know that music technology plays a significant role in what comes next in technology.  
