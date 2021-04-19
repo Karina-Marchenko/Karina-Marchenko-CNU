@@ -50,5 +50,4 @@ Since these assignments were different from what I had typically done in the pas
 
 In my opinion, I have grown tremendously throughout this course. 
 I have learned how to write outside of my comfort zone by being able to code. I have done many assignments in this course that I have never done before. 
-Being pushed out of my comfort zone, I believe this course has a significant impact on my future.  
-I am so much more familiar with the digital humanities space that I feel confident to continue doing my research within the field if needed. 
+Being pushed out of my comfort zone, I believe this course has a significant impact on my future. I am so much more familiar with the digital humanities space that I feel confident to continue doing my research within the field if needed. 
